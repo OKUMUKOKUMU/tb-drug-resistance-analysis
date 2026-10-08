@@ -1,0 +1,654 @@
+"patient_id","age","sex","hiv","prev_tx","contact","smoking","alcohol","county","resistant"
+"P0001",51,"Female","Positive","No","No","Yes","No","Migori",0
+"P0002",44,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0003",37,"Male","Positive","No","No","No","Yes","Homa Bay",0
+"P0004",35,"Female","Negative","No","No","Yes","No","Kakamega",1
+"P0005",53,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0006",55,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0007",45,"Male","Negative","No","No","No","Yes","Migori",0
+"P0008",36,"Male","Positive","No","No","Yes","Yes","Kisumu",0
+"P0009",22,"Female","Negative","No","No","No","No","Kakamega",0
+"P0010",23,"Male","Positive","Yes","No","No","Yes","Migori",0
+"P0011",16,"Female","Negative","No","No","No","No","Siaya",0
+"P0012",44,"Female","Positive","No","No","No","No","Siaya",0
+"P0013",49,"Male","Positive","No","Yes","No","Yes","Kisumu",1
+"P0014",42,"Female","Positive","No","No","Yes","No","Siaya",1
+"P0015",15,"Male","Negative","No","No","No","Yes","Migori",0
+"P0016",36,"Male","Negative","Yes","Yes","No","No","Siaya",0
+"P0017",26,"Male","Negative","No","No","Yes","No","Kakamega",0
+"P0018",NA,"Female","Negative","Yes","No","No","No","Homa Bay",0
+"P0019",17,"Male","Negative","No","No","No","No","Siaya",0
+"P0020",15,"Male","Positive","No","No","Yes","No","Kakamega",0
+"P0021",53,"Female","Positive","No","No","No","Yes","Siaya",1
+"P0022",42,"Male","Positive","No","No","Yes","No","Kakamega",0
+"P0023",52,"Male","Negative","Yes","Yes","No","No","Kakamega",0
+"P0024",35,"Male","Positive","Yes","No","No","Yes","Kakamega",0
+"P0025",43,"Male","Negative","No","No","No","No","Kakamega",0
+"P0026",18,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0027",36,"Female","Negative","Yes","No","No","Yes","Migori",0
+"P0028",47,"Male","Negative","No","No","No","Yes","Siaya",0
+"P0029",15,"Male","Negative","Yes","Yes","No","Yes","Kakamega",0
+"P0030",37,"Male","Positive","Yes","No","Yes","No","Migori",0
+"P0031",19,"Female","Negative","No","No","No","No","Homa Bay",0
+"P0032",34,"Female","Negative","No","No","Yes","Yes","Kakamega",0
+"P0033",31,"Male","Positive","Yes","Yes","Yes","No","Siaya",1
+"P0034",54,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0035",32,"Female","Negative","No","No","No","No","Siaya",0
+"P0036",43,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0037",42,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0038",32,"Male","Positive","Yes","No","No","Yes","Migori",0
+"P0039",31,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0040",44,"Male","Negative","No","No","No","No","Homa Bay",1
+"P0041",27,"Female","Positive","No","No","No","Yes","Migori",0
+"P0042",38,"Male","Negative","No","No","Yes","No","Homa Bay",0
+"P0043",44,"Male","Negative","No","No","No","No","Homa Bay",1
+"P0044",64,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0045",22,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0046",40,"Male","Negative","No","No","No","No","Siaya",0
+"P0047",42,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0048",47,"Male","Negative","Yes","No","Yes","No","Siaya",0
+"P0049",46,"Male","Positive","Yes","No","No","Yes","Kakamega",0
+"P0050",63,"Female","Positive","No","No","Yes","No","Homa Bay",0
+"P0051",31,"Male","Negative","Yes","No","No","Yes","Kisumu",0
+"P0052",28,"Female","Positive","No","No","No","No","Siaya",0
+"P0053",30,"Male","Negative","No","No","Yes","Yes","Kakamega",0
+"P0054",25,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0055",29,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0056",19,"Female","Positive","No","No","Yes","Yes","Siaya",0
+"P0057",50,"Female","Negative","No","No","Yes","Yes","Siaya",0
+"P0058",35,"Male","Negative","Yes","Yes","No","No","Migori",0
+"P0059",51,"Male","Negative","No","No","Yes","No","Kisumu",0
+"P0060",38,"Male","Positive","No","No","Yes","Yes","Homa Bay",1
+"P0061",59,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0062",49,"Female","Negative","Yes","No","Yes","No","Kakamega",1
+"P0063",45,"Female","Negative","Yes","No","No","Yes","Siaya",0
+"P0064",40,"Female","Positive","No","No","No","No","Siaya",0
+"P0065",59,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0066",36,"F","Negative","Yes","No","Yes","Yes","Siaya",0
+"P0067",15,"Female","Positive","No","No","No","No","Kakamega",0
+"P0068",999,"Male","Negative","No","No","No","No","Migori",0
+"P0069",44,"Female","Negative","Yes","No","Yes","No","Kakamega",1
+"P0070",15,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0071",53,"Male","Positive","Yes","No","Yes","Yes","Homa Bay",1
+"P0072",22,"Male","Negative","Yes","No","Yes","No","Kisumu",0
+"P0073",42,"Female","Positive","No","No","No","No","Kisumu",0
+"P0074",39,"Male","Positive","No","No","No","No","Kisumu",0
+"P0075",41,"Male","Negative","Yes","No","Yes","Yes","Kakamega",0
+"P0076",34,"Female","Unknown","Yes","No","No","No","Homa Bay",0
+"P0077",56,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0078",47,"Male","Positive","Yes","No","Yes","No","Kakamega",0
+"P0079",24,"Male","Negative","No","No","No","No","Siaya",0
+"P0080",38,"Female","Negative","No","Yes","No","No","Kisumu",1
+"P0081",22,"Male","Negative","No","No","No","No","Kakamega",0
+"P0082",51,"Male","Negative","No","No","Yes","No","Migori",0
+"P0083",49,"Male","Positive","No","No","No","No","Kisumu",0
+"P0084",15,"Female","Negative","No","No","Yes","No","Kakamega",0
+"P0085",40,"Female","Negative","Yes","Yes","No","No","Migori",1
+"P0086",52,"Male","Negative","Yes","No","Yes","No","Siaya",1
+"P0087",36,"Female","Negative","No","No","No","Yes","Kisumu",0
+"P0088",35,"Male","Negative","Yes","No","Yes","No","Homa Bay",1
+"P0089",35,"Female","Positive","No","No","No","No","Siaya",0
+"P0090",49,"Male","Positive","Yes","No","Yes","No","Siaya",1
+"P0091",22,"Male","Negative","Yes","No","No","No","Migori",0
+"P0092",31,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0093",29,"Male","Negative","Yes","Yes","No","No","Kisumu",1
+"P0094",47,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0095",45,"Female","Negative","No","No","Yes","No","Kakamega",0
+"P0096",15,"Female","Unknown","No","No","Yes","Yes","Kisumu",0
+"P0097",23,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0098",23,"Male","Negative","No","Yes","No","No","Migori",0
+"P0099",38,"Male","Negative","No","No","No","No","Siaya",0
+"P0100",53,"Female","Positive","Yes","No","No","No","Siaya",0
+"P0101",67,"Male","Negative","Yes","No","Yes","No","Homa Bay",0
+"P0102",44,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0103",52,"Female","Negative","No","No","No","Yes","Homa Bay",0
+"P0104",40,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0105",22,"Male","Unknown","Yes","Yes","No","No","Migori",0
+"P0106",43,"Female","Negative","Yes","No","No","Yes","Kakamega",0
+"P0107",35,"Male","Unknown","No","No","No","No","Siaya",1
+"P0108",53,"Male","Negative","No","Yes","Yes","No","Kisumu",0
+"P0109",31,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0110",23,"Female","Negative","No","No","No","No","Kakamega",0
+"P0111",21,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0112",53,"Male","Positive","No","Yes","Yes","No","Homa Bay",0
+"P0113",29,"","Negative","No","No","Yes","No","Homa Bay",0
+"P0114",38,"Male","Positive","No","No","No","Yes","Siaya",0
+"P0115",30,"Male","Positive","No","No","Yes","Yes","Homa Bay",0
+"P0116",15,"Male","Negative","Yes","Yes","No","No","Kakamega",1
+"P0117",63,"Female","Negative","Yes","Yes","No","No","Kakamega",0
+"P0118",45,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0119",35,"Female","Negative","No","No","No","No","Migori",0
+"P0120",50,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0121",35,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0122",34,"Male","Positive","Yes","No","Yes","Yes","Homa Bay",0
+"P0123",21,"Male","Unknown","Yes","No","No","Yes","Kakamega",0
+"P0124",35,"Male","Negative","No","Yes","No","No","Siaya",0
+"P0125",29,"Male","Negative","No","Yes","Yes","No","Homa Bay",0
+"P0126",NA,"Male","Unknown","Yes","No","No","No","Kisumu",0
+"P0127",24,"Female","Positive","No","No","Yes","Yes","Kisumu",1
+"P0128",24,"Male","Negative","No","No","No","Yes","Migori",0
+"P0129",31,"Female","Negative","No","No","No","Yes","Migori",0
+"P0130",45,"Male","Negative","Yes","No","Yes","No","Homa Bay",0
+"P0131",25,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0132",40,"Male","Negative","No","Yes","No","No","Kakamega",0
+"P0133",30,"Male","Positive","No","No","No","Yes","Kakamega",0
+"P0134",38,"Male","Negative","No","No","No","No","Kakamega",0
+"P0135",60,"Female","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0136",27,"Male","Unknown","Yes","No","Yes","Yes","Kisumu",0
+"P0137",22,"Female","Negative","Yes","No","No","No","Migori",1
+"P0138",45,"Female","Positive","Yes","Yes","No","No","Migori",1
+"P0139",42,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0140",34,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0141",45,"Female","Positive","Yes","No","No","No","Migori",0
+"P0142",22,"Male","Negative","No","No","Yes","Yes","Homa Bay",0
+"P0143",28,"Male","Positive","Yes","No","Yes","Yes","Migori",0
+"P0144",61,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0145",49,"Male","Negative","No","No","No","No","Kakamega",0
+"P0146",48,"Male","Negative","No","Yes","Yes","No","Homa Bay",0
+"P0147",61,"Male","Negative","Yes","No","Yes","Yes","Kakamega",1
+"P0148",40,"Male","Negative","No","No","No","No","Siaya",0
+"P0149",49,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0150",52,"Female","Negative","No","No","No","No","Kakamega",0
+"P0151",23,"Female","Positive","Yes","No","No","No","Migori",0
+"P0152",37,"Female","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0153",69,"Female","Positive","Yes","No","No","No","Siaya",1
+"P0154",54,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0155",28,"Female","Negative","Yes","No","Yes","No","Homa Bay",0
+"P0156",15,"Female","Positive","Yes","No","No","Yes","Siaya",0
+"P0157",42,"Female","Negative","Yes","No","No","No","Homa Bay",0
+"P0158",34,"Male","Negative","No","No","Yes","No","Kisumu",0
+"P0159",29,"Male","Unknown","Yes","No","Yes","No","Homa Bay",0
+"P0160",42,"Male","Negative","No","No","No","No","Kisumu",0
+"P0161",61,"Male","Negative","Yes","No","No","No","Kakamega",1
+"P0162",38,"Female","Positive","Yes","No","Yes","No","Homa Bay",0
+"P0163",38,"Female","Positive","No","Yes","No","Yes","Homa Bay",0
+"P0164",58,"Female","Negative","No","No","No","Yes","Kisumu",0
+"P0165",33,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0166",30,"Female","Positive","No","No","No","No","Kisumu",0
+"P0167",40,"Male","Positive","Yes","No","Yes","No","Migori",1
+"P0168",16,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0169",54,"Male","Positive","Yes","Yes","No","No","Kisumu",0
+"P0170",67,"Male","Negative","Yes","No","Yes","Yes","Kisumu",0
+"P0171",33,"Male","Positive","Yes","No","Yes","No","Kakamega",0
+"P0172",50,"Female","Negative","Yes","No","Yes","No","Kisumu",1
+"P0173",32,"Female","Negative","Yes","No","Yes","No","Kisumu",0
+"P0174",41,"Male","Unknown","No","No","No","No","Migori",0
+"P0175",43,"Female","Negative","Yes","No","Yes","Yes","Siaya",0
+"P0176",53,"Male","Positive","No","No","Yes","Yes","Kisumu",0
+"P0177",54,"Female","Negative","Yes","No","No","No","Homa Bay",0
+"P0178",40,"Male","Unknown","No","No","No","No","Homa Bay",1
+"P0179",47,"Male","Negative","Yes","No","Yes","No","Kisumu",0
+"P0180",33,"Male","Negative","Yes","No","Yes","No","Kakamega",0
+"P0181",47,"Male","Positive","No","No","No","Yes","Migori",0
+"P0182",41,"Female","Negative","Yes","No","No","No","Migori",0
+"P0183",47,"Male","Negative","No","No","Yes","No","Siaya",0
+"P0184",29,"Male","Unknown","No","No","No","No","Homa Bay",0
+"P0185",NA,"Female","Negative","No","No","No","No","Migori",0
+"P0186",48,"Male","Negative","Yes","No","Yes","Yes","Kisumu",0
+"P0187",51,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0188",33,"Female","Positive","No","No","No","No","Siaya",0
+"P0189",29,"Male","Unknown","No","No","Yes","No","Kisumu",0
+"P0190",44,"Male","Negative","No","No","No","No","Kakamega",0
+"P0191",30,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0192",24,"Female","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0193",45,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0194",52,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0195",55,"Male","Positive","No","No","Yes","No","Kakamega",0
+"P0196",46,"Male","Positive","Yes","No","Yes","No","Homa Bay",0
+"P0197",54,"Female","Positive","Yes","No","No","Yes","Homa Bay",1
+"P0198",44,"Female","Negative","No","No","No","No","Homa Bay",0
+"P0199",68,"Male","Positive","No","No","No","No","Kisumu",0
+"P0200",15,"Male","Positive","Yes","No","Yes","Yes","Homa Bay",0
+"P0201",38,"Male","Positive","Yes","No","Yes","No","Kakamega",0
+"P0202",44,"Male","Positive","Yes","No","No","Yes","Kisumu",0
+"P0203",28,"Female","Negative","No","Yes","Yes","No","Siaya",0
+"P0204",41,"Male","Positive","Yes","No","No","No","Siaya",0
+"P0205",51,"Female","Negative","Yes","No","No","Yes","Kisumu",0
+"P0206",25,"Female","Unknown","No","No","No","No","Homa Bay",0
+"P0207",28,"Male","Positive","Yes","Yes","No","No","Kakamega",1
+"P0208",40,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0209",49,"Female","Negative","No","No","Yes","Yes","Homa Bay",0
+"P0210",44,"Female","Negative","Yes","No","No","No","Siaya",0
+"P0211",29,"Male","Unknown","No","No","Yes","No","Kisumu",0
+"P0212",45,"Male","Positive","No","No","No","Yes","Homa Bay",0
+"P0213",31,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0214",15,"Male","Positive","No","Yes","No","Yes","Kakamega",0
+"P0215",46,"Male","Positive","Yes","No","No","Yes","Siaya",1
+"P0216",43,"Female","Negative","Yes","No","No","No","Siaya",1
+"P0217",47,"Male","Negative","Yes","Yes","No","No","Siaya",1
+"P0218",45,"Female","Negative","No","No","No","Yes","Siaya",0
+"P0219",30,"Female","Negative","Yes","No","No","Yes","Homa Bay",1
+"P0220",52,"Male","Negative","No","No","Yes","Yes","Kisumu",0
+"P0221",30,"Male","Unknown","No","No","Yes","No","Homa Bay",0
+"P0222",57,"Male","Negative","Yes","No","No","No","Kakamega",1
+"P0223",40,"Male","Negative","No","No","Yes","Yes","Siaya",0
+"P0224",37,"Female","Negative","Yes","No","Yes","No","Kakamega",0
+"P0225",38,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0226",41,"Male","Negative","No","Yes","No","No","Migori",1
+"P0227",37,"Male","Positive","No","No","Yes","No","Siaya",0
+"P0228",44,"Female","Positive","No","No","No","No","Migori",0
+"P0229",35,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0230",46,"Female","Negative","Yes","No","No","Yes","Migori",0
+"P0231",56,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0232",47,"Female","Negative","Yes","No","No","No","Kakamega",0
+"P0233",35,"Male","Positive","No","No","No","No","Siaya",0
+"P0234",33,"Female","Negative","No","Yes","No","No","Kakamega",0
+"P0235",38,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0236",39,"Female","Negative","Yes","No","Yes","No","Kisumu",0
+"P0237",37,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0238",31,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0239",39,"Male","Negative","No","No","No","No","Kisumu",0
+"P0240",26,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0241",41,"Male","Negative","No","No","No","Yes","Migori",0
+"P0242",52,"Female","Negative","No","No","No","Yes","Kakamega",0
+"P0243",56,"Female","Negative","No","No","No","No","Migori",0
+"P0244",53,"Female","Positive","No","No","No","Yes","Kakamega",0
+"P0245",26,"Male","Negative","No","No","No","No","Homa Bay",1
+"P0246",63,"Female","Negative","Yes","No","No","Yes","Kisumu",1
+"P0247",31,"Male","Positive","No","No","Yes","Yes","Kakamega",0
+"P0248",41,"Male","Positive","Yes","No","Yes","No","Kisumu",1
+"P0249",23,"Male","Negative","Yes","Yes","Yes","No","Siaya",1
+"P0250",40,"Female","Negative","Yes","No","Yes","Yes","Homa Bay",0
+"P0251",60,"Female","Positive","No","No","No","No","Siaya",0
+"P0252",40,"Female","Negative","No","No","No","No","Migori",1
+"P0253",51,"Male","Positive","No","No","No","Yes","Kisumu",1
+"P0254",34,"Female","Negative","No","No","No","Yes","Homa Bay",0
+"P0255",42,"Male","Negative","Yes","No","Yes","No","Migori",0
+"P0256",18,"Male","Unknown","No","No","No","Yes","Homa Bay",1
+"P0257",40,"Female","Negative","Yes","No","No","No","Migori",0
+"P0258",36,"Female","Negative","Yes","No","No","No","Siaya",0
+"P0259",45,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0260",23,"Male","Unknown","Yes","Yes","No","No","Kakamega",0
+"P0261",35,"Male","Positive","Yes","No","No","Yes","Kisumu",1
+"P0262",34,"Female","Positive","No","Yes","No","No","Kisumu",1
+"P0263",45,"Female","Unknown","No","No","No","No","Kisumu",0
+"P0264",28,"Female","Negative","No","Yes","No","No","Homa Bay",0
+"P0265",15,"Male","Negative","No","No","No","No","Migori",0
+"P0266",46,"Female","Negative","Yes","No","Yes","Yes","Kisumu",0
+"P0267",32,"Male","Negative","Yes","No","Yes","No","Kisumu",0
+"P0268",47,"Female","Negative","No","No","No","No","Kisumu",1
+"P0269",45,"Male","Negative","No","No","No","Yes","Kisumu",0
+"P0270",50,"Female","Unknown","Yes","Yes","Yes","Yes","Kisumu",1
+"P0271",50,"Male","Negative","Yes","No","Yes","Yes","Kakamega",0
+"P0272",36,"Female","Negative","Yes","No","No","Yes","Migori",1
+"P0273",21,"Male","Negative","Yes","No","No","No","Migori",0
+"P0274",27,"Female","Negative","Yes","No","Yes","No","Homa Bay",0
+"P0275",45,"Male","Negative","No","No","No","Yes","Migori",0
+"P0276",38,"Female","Negative","Yes","Yes","No","Yes","Kakamega",0
+"P0277",30,"Female","Positive","Yes","No","No","Yes","Homa Bay",0
+"P0278",17,"Female","Unknown","No","No","No","No","Siaya",0
+"P0279",26,"Male","Negative","No","No","No","Yes","Kakamega",0
+"P0280",36,"Female","Negative","No","No","No","Yes","Homa Bay",0
+"P0281",47,"Female","Negative","No","No","No","Yes","Siaya",0
+"P0282",41,"Female","Negative","No","No","No","No","Migori",0
+"P0283",56,"Male","Negative","Yes","No","No","Yes","Kisumu",0
+"P0284",41,"Male","Negative","No","No","No","No","Kisumu",0
+"P0285",46,"Female","Unknown","Yes","No","No","No","Homa Bay",0
+"P0286",33,"Female","Unknown","No","No","Yes","No","Siaya",0
+"P0287",28,"Female","Negative","Yes","Yes","No","No","Siaya",0
+"P0288",39,"Male","Negative","Yes","No","Yes","No","Siaya",0
+"P0289",52,"Male","Negative","No","No","Yes","No","Homa Bay",0
+"P0290",71,"Female","Negative","Yes","No","No","No","Siaya",1
+"P0291",29,"male","Positive","Yes","No","No","No","Siaya",0
+"P0292",48,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0293",60,"Female","Negative","Yes","No","No","No","Migori",1
+"P0294",33,"Male","Positive","Yes","Yes","No","Yes","Kisumu",0
+"P0295",42,"Female","Negative","No","Yes","Yes","No","Kisumu",0
+"P0296",47,"Male","Negative","No","No","No","Yes","Migori",0
+"P0297",55,"Male","Negative","No","No","No","No","Kisumu",0
+"P0298",22,"Male","Positive","No","No","No","No","Homa Bay",0
+"P0299",21,"Female","Unknown","Yes","No","No","No","Kisumu",0
+"P0300",40,"Male","Negative","Yes","No","Yes","No","Siaya",1
+"P0301",47,"Male","Positive","No","No","No","No","Migori",0
+"P0302",30,"Female","Negative","Yes","No","Yes","No","Kisumu",0
+"P0303",34,"Male","Positive","Yes","No","No","No","Migori",0
+"P0304",52,"Female","Positive","No","No","No","No","Kisumu",0
+"P0305",59,"Female","Negative","No","Yes","Yes","Yes","Siaya",0
+"P0306",44,"Female","Negative","Yes","No","Yes","No","Kakamega",0
+"P0307",37,"Male","Unknown","No","No","Yes","Yes","Homa Bay",0
+"P0308",47,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0309",40,"Male","Negative","No","No","No","No","Kakamega",0
+"P0310",55,"Female","Positive","Yes","Yes","No","No","Siaya",1
+"P0311",43,"Female","Positive","No","No","No","No","Siaya",0
+"P0312",21,"Male","Unknown","Yes","Yes","No","No","Kisumu",1
+"P0313",17,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0314",27,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0315",76,"Male","Positive","No","No","Yes","Yes","Migori",0
+"P0316",33,"Male","Negative","No","Yes","No","No","Siaya",0
+"P0317",37,"Male","Positive","Yes","No","No","Yes","Siaya",0
+"P0318",38,"Male","Positive","No","No","No","Yes","Kisumu",0
+"P0319",52,"Female","Negative","Yes","No","No","No","Kakamega",1
+"P0320",30,"Female","Unknown","No","No","No","No","Kakamega",1
+"P0321",24,"Male","Positive","Yes","No","No","Yes","Homa Bay",0
+"P0322",41,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0323",43,"Female","Negative","Yes","No","No","Yes","Migori",0
+"P0324",29,"Female","Positive","Yes","No","No","No","Migori",0
+"P0325",73,"Male","Negative","No","No","Yes","Yes","Migori",0
+"P0326",36,"Female","Negative","Yes","No","No","Yes","Migori",0
+"P0327",25,"Male","Positive","No","No","No","No","Siaya",0
+"P0328",47,"Female","Positive","No","No","No","Yes","Siaya",0
+"P0329",15,"Male","Negative","No","No","No","No","Kakamega",0
+"P0330",33,"Male","Negative","No","Yes","No","No","Kakamega",0
+"P0331",39,"Male","Negative","Yes","Yes","Yes","No","Kakamega",0
+"P0332",30,"Male","Unknown","Yes","No","No","Yes","Kisumu",0
+"P0333",55,"Female","Negative","Yes","No","Yes","Yes","Siaya",0
+"P0334",32,"Male","Negative","Yes","No","No","Yes","Kisumu",1
+"P0335",53,"Male","Positive","Yes","No","No","Yes","Kakamega",0
+"P0336",18,"Female","Negative","Yes","Yes","No","No","Siaya",0
+"P0337",56,"Male","Unknown","No","No","No","No","Kisumu",1
+"P0338",15,"Male","Positive","Yes","No","No","Yes","Migori",0
+"P0339",NA,"Male","Negative","No","Yes","No","No","Homa Bay",0
+"P0340",44,"Female","Unknown","No","No","No","No","Migori",0
+"P0341",30,"Male","Negative","Yes","No","Yes","No","Migori",0
+"P0342",17,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0343",42,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0344",38,"Male","Negative","Yes","No","No","No","Migori",0
+"P0345",47,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0346",58,"Male","Positive","Yes","No","Yes","No","Migori",0
+"P0347",23,"Female","Negative","Yes","No","Yes","No","Migori",1
+"P0348",44,"Male","Negative","No","No","No","No","Kakamega",0
+"P0349",23,"Male","Positive","Yes","No","Yes","Yes","Kisumu",0
+"P0350",55,"Female","Negative","No","No","Yes","No","Migori",1
+"P0351",33,"Female","Negative","No","No","No","No","Siaya",0
+"P0352",48,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0353",47,"Male","Positive","No","Yes","No","Yes","Homa Bay",0
+"P0354",28,"Female","Negative","No","No","Yes","Yes","Kisumu",0
+"P0355",15,"Male","Negative","Yes","No","No","No","Migori",0
+"P0356",31,"Female","Negative","No","No","No","No","Kisumu",0
+"P0357",47,"Male","Unknown","No","No","Yes","No","Kisumu",0
+"P0358",49,"Male","Negative","No","No","Yes","No","Kakamega",0
+"P0359",53,"Male","Negative","No","No","No","Yes","Kisumu",0
+"P0360",24,"Male","Negative","No","Yes","No","No","Kakamega",1
+"P0361",35,"Male","Negative","Yes","No","Yes","Yes","Migori",0
+"P0362",45,"Male","Negative","No","No","No","No","Kakamega",0
+"P0363",28,"Male","Negative","No","No","No","No","Kisumu",0
+"P0364",30,"Male","Positive","Yes","Yes","No","No","Homa Bay",0
+"P0365",44,"Male","Negative","No","No","Yes","No","Kakamega",0
+"P0366",31,"Male","Unknown","Yes","No","No","Yes","Kisumu",1
+"P0367",40,"Female","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0368",40,"Male","Negative","No","No","Yes","No","Migori",0
+"P0369",46,"Male","Negative","Yes","No","Yes","No","Migori",0
+"P0370",29,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0371",61,"Female","Positive","No","Yes","No","No","Siaya",1
+"P0372",32,"Male","Unknown","Yes","No","Yes","No","Homa Bay",1
+"P0373",33,"Male","Positive","Yes","No","No","No","Migori",0
+"P0374",36,"Female","Negative","Yes","Yes","No","No","Kakamega",0
+"P0375",39,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0376",36,"Male","Negative","Yes","No","No","Yes","Kakamega",0
+"P0377",35,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0378",32,"Male","Positive","Yes","No","Yes","Yes","Kakamega",1
+"P0379",68,"Male","Negative","No","No","Yes","Yes","Kisumu",1
+"P0380",27,"Female","Negative","Yes","No","Yes","No","Kisumu",0
+"P0381",999,"Male","Negative","No","Yes","No","Yes","Migori",0
+"P0382",35,"Male","Negative","No","No","No","Yes","Migori",0
+"P0383",41,"Female","Negative","No","Yes","Yes","No","Siaya",0
+"P0384",38,"Female","Unknown","Yes","No","No","Yes","Kakamega",0
+"P0385",58,"Female","Negative","Yes","No","Yes","No","Migori",0
+"P0386",43,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0387",17,"Male","Positive","Yes","No","No","Yes","Migori",1
+"P0388",49,"Male","Negative","Yes","No","Yes","No","Kakamega",0
+"P0389",36,"Female","Positive","Yes","No","Yes","No","Kisumu",0
+"P0390",54,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0391",38,"Female","Unknown","Yes","No","No","Yes","Homa Bay",0
+"P0392",48,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0393",NA,"Female","Positive","No","No","No","No","Migori",0
+"P0394",23,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0395",56,"Female","Negative","No","Yes","No","Yes","Kisumu",0
+"P0396",45,"Female","Negative","Yes","Yes","Yes","No","Migori",1
+"P0397",33,"Female","Positive","No","No","No","Yes","Migori",0
+"P0398",36,"Female","Negative","No","No","Yes","No","Homa Bay",0
+"P0399",20,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0400",36,"Female","Negative","Yes","No","Yes","No","Migori",0
+"P0401",64,"Female","Positive","No","Yes","No","No","Homa Bay",0
+"P0402",48,"Female","Negative","No","No","No","No","Kisumu",0
+"P0403",40,"Male","Negative","Yes","Yes","No","No","Siaya",1
+"P0404",27,"Male","Negative","No","No","No","No","Siaya",0
+"P0405",50,"Female","Positive","No","No","No","No","Kisumu",0
+"P0406",15,"Male","Negative","No","Yes","No","No","Homa Bay",0
+"P0407",41,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0408",37,"Male","Positive","No","No","No","No","Migori",0
+"P0409",42,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0410",47,"Male","Negative","Yes","No","Yes","No","Kakamega",0
+"P0411",56,"Female","Positive","Yes","No","No","Yes","Migori",0
+"P0412",39,"Male","Negative","Yes","No","Yes","No","Migori",1
+"P0413",49,"Female","Unknown","No","No","No","No","Kisumu",0
+"P0414",48,"Male","Negative","Yes","No","No","Yes","Kisumu",0
+"P0415",48,"Male","Negative","Yes","No","Yes","Yes","Siaya",1
+"P0416",39,"Male","Positive","No","No","No","No","Kakamega",0
+"P0417",24,"Male","Negative","No","No","Yes","No","Migori",0
+"P0418",28,"Male","Negative","No","Yes","Yes","Yes","Kakamega",0
+"P0419",18,"Male","Positive","No","No","No","No","Siaya",0
+"P0420",46,"Male","Positive","Yes","No","Yes","No","Homa Bay",0
+"P0421",16,"Male","Positive","No","Yes","No","Yes","Migori",0
+"P0422",58,"Female","Negative","Yes","No","Yes","No","Homa Bay",1
+"P0423",37,"Male","Negative","No","No","No","No","Migori",1
+"P0424",32,"Male","Positive","No","No","Yes","Yes","Homa Bay",0
+"P0425",49,"Male","Unknown","Yes","No","No","Yes","Siaya",0
+"P0426",34,"Male","Positive","No","Yes","No","Yes","Kakamega",1
+"P0427",57,"Male","Negative","Yes","No","No","Yes","Kisumu",0
+"P0428",20,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0429",48,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0430",56,"Male","Positive","Yes","No","No","Yes","Migori",1
+"P0431",65,"Male","Positive","Yes","No","Yes","No","Migori",0
+"P0432",57,"Male","Positive","No","No","No","No","Siaya",1
+"P0433",51,"Female","Negative","No","No","Yes","Yes","Kisumu",0
+"P0434",26,"Female","Negative","No","No","No","Yes","Migori",0
+"P0435",51,"Male","Positive","Yes","Yes","Yes","Yes","Migori",0
+"P0436",51,"Female","Positive","No","No","Yes","No","Siaya",0
+"P0437",17,"Male","Positive","No","No","No","No","Siaya",0
+"P0438",26,"Male","Negative","No","No","No","Yes","Kakamega",0
+"P0439",30,"Male","Positive","No","No","Yes","Yes","Migori",0
+"P0440",38,"Male","Unknown","Yes","No","No","No","Kakamega",0
+"P0441",30,"Female","Negative","No","Yes","No","No","Homa Bay",0
+"P0442",58,"Male","Negative","Yes","No","No","Yes","Kakamega",0
+"P0443",35,"Female","Negative","Yes","No","No","No","Siaya",0
+"P0444",32,"Male","Unknown","No","No","No","No","Siaya",0
+"P0445",45,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0446",33,"Male","Unknown","Yes","No","No","No","Siaya",0
+"P0447",22,"Male","Negative","No","No","No","Yes","Kisumu",0
+"P0448",31,"Female","Positive","Yes","No","No","Yes","Migori",0
+"P0449",40,"Female","Negative","Yes","Yes","No","No","Siaya",0
+"P0450",33,"Male","Negative","No","No","No","No","Migori",0
+"P0451",23,"Female","Negative","No","Yes","Yes","No","Migori",0
+"P0452",50,"Female","Negative","No","No","No","No","Kisumu",0
+"P0453",27,"Male","Positive","No","Yes","Yes","Yes","Kisumu",1
+"P0454",15,"Female","Negative","No","No","No","No","Homa Bay",0
+"P0455",48,"Male","Negative","No","No","Yes","Yes","Kisumu",0
+"P0456",51,"Male","Negative","No","Yes","No","No","Kakamega",0
+"P0457",44,"Male","Positive","No","No","No","No","Kakamega",0
+"P0458",48,"Female","Negative","Yes","No","No","Yes","Siaya",0
+"P0459",22,"Male","Negative","Yes","Yes","No","No","Kakamega",0
+"P0460",54,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0461",46,"Female","Negative","Yes","No","No","No","Kakamega",0
+"P0462",46,"Male","Positive","Yes","Yes","No","Yes","Homa Bay",0
+"P0463",45,"Male","Negative","Yes","No","No","Yes","Kakamega",0
+"P0464",53,"Female","Positive","Yes","No","Yes","No","Kakamega",1
+"P0465",18,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0466",37,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0467",40,"Male","Positive","Yes","No","Yes","No","Migori",0
+"P0468",55,"Male","Positive","Yes","No","No","No","Migori",0
+"P0469",62,"Female","Positive","No","Yes","No","Yes","Migori",0
+"P0470",30,"Male","Negative","No","No","Yes","No","Kakamega",1
+"P0471",48,"Female","Positive","No","No","No","No","Kisumu",0
+"P0472",35,"Female","Positive","No","No","No","No","Migori",0
+"P0473",34,"Female","Positive","No","No","No","No","Homa Bay",0
+"P0474",37,"Male","Positive","Yes","No","No","Yes","Kakamega",1
+"P0475",35,"M","Negative","Yes","Yes","No","No","Migori",0
+"P0476",38,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0477",37,"Female","Negative","Yes","No","No","No","Siaya",0
+"P0478",28,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0479",31,"Female","Unknown","Yes","No","No","Yes","Homa Bay",0
+"P0480",47,"Female","Positive","Yes","Yes","No","No","Kakamega",0
+"P0481",42,"Male","Positive","Yes","No","Yes","No","Homa Bay",0
+"P0482",30,"Female","Negative","No","No","No","No","Migori",0
+"P0483",29,"Female","Positive","Yes","No","No","No","Kakamega",0
+"P0484",46,"Female","Positive","No","No","No","No","Migori",0
+"P0485",26,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0486",43,"Female","Negative","Yes","No","No","No","Migori",0
+"P0487",35,"Male","Negative","No","No","No","No","Kisumu",0
+"P0488",41,"Male","Positive","No","Yes","Yes","No","Homa Bay",0
+"P0489",32,"Female","Negative","Yes","No","No","Yes","Siaya",1
+"P0490",51,"Male","Negative","No","No","Yes","No","Kisumu",0
+"P0491",38,"Male","Unknown","No","No","No","No","Siaya",0
+"P0492",36,"Male","Positive","Yes","No","No","No","Siaya",0
+"P0493",43,"Male","Positive","Yes","No","No","Yes","Migori",1
+"P0494",35,"Female","Negative","No","No","No","No","Kakamega",0
+"P0495",27,"Female","Negative","No","No","No","No","Siaya",0
+"P0496",40,"Male","Positive","No","No","Yes","Yes","Homa Bay",0
+"P0497",30,"Female","Negative","No","No","Yes","No","Homa Bay",0
+"P0498",50,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0499",18,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0500",45,"Male","Negative","No","No","Yes","No","Migori",0
+"P0501",48,"Female","Unknown","Yes","No","No","No","Siaya",0
+"P0502",28,"Female","Negative","No","No","No","No","Siaya",0
+"P0503",48,"Male","Positive","Yes","Yes","No","No","Homa Bay",1
+"P0504",38,"Male","Positive","No","Yes","No","No","Migori",0
+"P0505",67,"Male","Positive","Yes","No","No","Yes","Kisumu",1
+"P0506",27,"Male","Negative","No","No","No","No","Migori",0
+"P0507",15,"Male","Negative","Yes","No","No","No","Migori",0
+"P0508",61,"Male","Positive","Yes","Yes","No","Yes","Migori",1
+"P0509",37,"Female","Positive","Yes","No","No","No","Migori",1
+"P0510",24,"Female","Negative","Yes","No","No","No","Kisumu",0
+"P0511",39,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0512",44,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0513",26,"Male","Negative","Yes","No","Yes","Yes","Kakamega",0
+"P0514",50,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0515",31,"Male","Negative","No","No","Yes","Yes","Migori",1
+"P0516",27,"Male","Negative","Yes","No","No","No","Kisumu",1
+"P0517",29,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0518",33,"Female","Positive","Yes","Yes","No","No","Kisumu",0
+"P0519",35,"Female","Negative","Yes","No","No","No","Kakamega",0
+"P0520",15,"Male","Negative","No","No","Yes","Yes","Kakamega",0
+"P0521",28,"Male","Negative","Yes","No","Yes","Yes","Siaya",0
+"P0522",32,"Female","Negative","Yes","No","No","No","Siaya",0
+"P0523",28,"Male","Negative","Yes","No","No","No","Kakamega",0
+"P0524",15,"Male","Positive","Yes","No","No","No","Kakamega",0
+"P0525",33,"Male","Negative","No","No","No","Yes","Homa Bay",0
+"P0526",NA,"Male","Negative","Yes","No","Yes","No","Migori",1
+"P0527",23,"Female","Negative","Yes","No","No","No","Kakamega",1
+"P0528",48,"Male","Positive","Yes","No","Yes","Yes","Siaya",1
+"P0529",48,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0530",42,"Female","Positive","Yes","No","No","Yes","Kakamega",0
+"P0531",27,"Male","Unknown","No","No","No","No","Kakamega",1
+"P0532",23,"Male","Negative","No","No","Yes","No","Kisumu",0
+"P0533",35,"Female","Positive","No","No","No","No","Kakamega",1
+"P0534",46,"Female","Positive","No","No","Yes","Yes","Siaya",0
+"P0535",41,"Male","Positive","Yes","No","No","Yes","Homa Bay",0
+"P0536",64,"Male","Positive","No","No","No","Yes","Kakamega",0
+"P0537",36,"Male","Positive","No","No","Yes","No","Migori",0
+"P0538",27,"Male","Positive","No","No","Yes","Yes","Kakamega",0
+"P0539",15,"Female","Negative","Yes","No","Yes","No","Siaya",0
+"P0540",40,"Female","Negative","Yes","Yes","No","No","Homa Bay",1
+"P0541",23,"Male","Negative","No","No","Yes","No","Migori",0
+"P0542",32,"Female","Positive","Yes","No","Yes","No","Migori",1
+"P0543",42,"Female","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0544",24,"Male","Negative","No","No","No","Yes","Siaya",0
+"P0545",33,"Female","Negative","No","No","Yes","No","Kakamega",0
+"P0546",58,"Male","Negative","Yes","Yes","No","Yes","Kakamega",1
+"P0547",47,"Male","Negative","No","No","Yes","Yes","Kakamega",1
+"P0548",29,"Male","Positive","Yes","No","Yes","Yes","Kisumu",0
+"P0549",33,"Male","Positive","No","No","No","No","Homa Bay",0
+"P0550",38,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0551",47,"Male","Positive","Yes","No","Yes","Yes","Homa Bay",0
+"P0552",43,"Female","Negative","Yes","No","Yes","Yes","Migori",0
+"P0553",44,"Male","Positive","No","Yes","No","Yes","Kisumu",0
+"P0554",35,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0555",35,"Female","Negative","Yes","No","No","No","Homa Bay",0
+"P0556",41,"Female","Positive","No","No","Yes","Yes","Homa Bay",0
+"P0557",16,"Female","Negative","Yes","No","Yes","No","Kisumu",0
+"P0558",58,"Male","Unknown","No","No","Yes","Yes","Kisumu",0
+"P0559",34,"Female","Negative","Yes","No","No","Yes","Siaya",0
+"P0560",45,"Male","Unknown","No","No","Yes","Yes","Migori",0
+"P0561",55,"Male","Negative","No","No","No","No","Kisumu",0
+"P0562",64,"Male","Negative","No","No","No","No","Migori",0
+"P0563",30,"Female","Positive","Yes","No","No","No","Kisumu",1
+"P0564",37,"Male","Negative","Yes","No","Yes","No","Kakamega",0
+"P0565",16,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0566",41,"Female","Negative","No","Yes","No","Yes","Kakamega",0
+"P0567",37,"Female","Negative","No","No","No","Yes","Siaya",0
+"P0568",45,"Male","Negative","No","No","Yes","No","Homa Bay",0
+"P0569",40,"Female","Negative","Yes","No","No","No","Kakamega",1
+"P0570",15,"Male","Negative","Yes","No","Yes","Yes","Siaya",0
+"P0571",25,"Male","Negative","Yes","No","No","Yes","Migori",0
+"P0572",26,"Female","Positive","Yes","Yes","Yes","Yes","Homa Bay",1
+"P0573",49,"Female","Negative","Yes","No","No","Yes","Siaya",1
+"P0574",19,"Male","Positive","No","No","No","No","Siaya",0
+"P0575",49,"Male","Negative","No","Yes","No","No","Siaya",0
+"P0576",58,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0577",31,"Male","Negative","Yes","Yes","Yes","Yes","Siaya",0
+"P0578",36,"Male","Positive","Yes","No","No","Yes","Siaya",0
+"P0579",53,"Male","Negative","Yes","No","No","Yes","Homa Bay",0
+"P0580",19,"Female","Unknown","Yes","No","No","Yes","Kisumu",0
+"P0581",22,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0582",49,"Male","Negative","No","No","No","Yes","Migori",0
+"P0583",15,"Female","Negative","No","No","Yes","Yes","Siaya",0
+"P0584",26,"Male","Unknown","No","Yes","Yes","No","Migori",0
+"P0585",48,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0586",40,"Male","Negative","No","No","No","No","Kisumu",0
+"P0587",40,"Male","Negative","No","No","No","No","Migori",0
+"P0588",25,"Female","Negative","Yes","No","No","No","Homa Bay",0
+"P0589",62,"Female","Positive","Yes","Yes","Yes","No","Siaya",1
+"P0590",57,"Male","Negative","No","No","No","No","Homa Bay",0
+"P0591",38,"Female","Negative","No","No","Yes","No","Homa Bay",0
+"P0592",22,"Male","Positive","Yes","No","No","No","Kisumu",0
+"P0593",20,"Male","Positive","Yes","No","No","No","Migori",0
+"P0594",44,"Male","Positive","Yes","No","Yes","No","Siaya",0
+"P0595",34,"Female","Unknown","Yes","No","No","No","Homa Bay",1
+"P0596",34,"Female","Negative","Yes","No","Yes","No","Homa Bay",1
+"P0597",34,"Male","Positive","No","No","No","No","Siaya",0
+"P0598",57,"Male","Negative","No","No","No","No","Kakamega",0
+"P0599",45,"Female","Negative","Yes","No","No","No","Migori",1
+"P0600",34,"Male","Negative","Yes","No","No","No","Kakamega",1
+"P0601",15,"Female","Positive","No","No","Yes","No","Homa Bay",0
+"P0602",55,"Female","Positive","Yes","Yes","No","No","Kakamega",1
+"P0603",46,"Female","Negative","No","No","Yes","Yes","Siaya",0
+"P0604",40,"Male","Negative","No","No","No","No","Kisumu",0
+"P0605",41,"Male","Positive","Yes","No","No","Yes","Homa Bay",1
+"P0606",27,"Male","Positive","Yes","No","No","Yes","Homa Bay",1
+"P0607",37,"Female","Negative","Yes","Yes","Yes","No","Migori",1
+"P0608",15,"Male","Negative","No","No","No","No","Siaya",0
+"P0609",37,"Male","Negative","Yes","No","No","No","Siaya",0
+"P0610",32,"Male","Negative","Yes","Yes","No","No","Migori",1
+"P0611",22,"Male","Negative","Yes","No","No","Yes","Kisumu",0
+"P0612",54,"Male","Positive","Yes","No","No","No","Kisumu",1
+"P0613",30,"Female","Negative","No","No","No","No","Siaya",0
+"P0614",59,"Female","Negative","No","No","No","Yes","Kisumu",0
+"P0615",44,"Male","Positive","Yes","No","Yes","Yes","Siaya",0
+"P0616",27,"Male","Positive","Yes","No","No","No","Migori",0
+"P0617",49,"Male","Negative","Yes","No","No","No","Homa Bay",0
+"P0618",68,"Male","Negative","No","No","No","No","Migori",0
+"P0619",39,"Female","Unknown","Yes","No","No","No","Siaya",0
+"P0620",40,"Male","Positive","No","No","No","No","Kakamega",0
+"P0621",49,"Female","Positive","Yes","No","No","No","Kakamega",0
+"P0622",24,"Male","Positive","No","No","No","Yes","Kisumu",1
+"P0623",34,"Male","Unknown","No","No","Yes","No","Kakamega",0
+"P0624",28,"Female","Positive","No","No","No","No","Migori",0
+"P0625",35,"Female","Negative","No","Yes","No","No","Siaya",0
+"P0626",49,"Male","Negative","Yes","Yes","No","No","Kisumu",1
+"P0627",34,"Male","Negative","No","No","No","No","Siaya",1
+"P0628",23,"Female","Positive","No","No","No","Yes","Siaya",0
+"P0629",36,"Male","Positive","No","Yes","No","Yes","Homa Bay",1
+"P0630",36,"Female","Negative","No","No","No","Yes","Siaya",0
+"P0631",20,"Male","Negative","No","No","No","No","Migori",0
+"P0632",25,"Female","Negative","Yes","Yes","No","No","Homa Bay",0
+"P0633",16,"Male","Negative","No","No","Yes","No","Kisumu",0
+"P0634",34,"Male","Negative","Yes","No","No","Yes","Siaya",0
+"P0635",28,"Female","Positive","No","No","No","No","Migori",0
+"P0636",54,"Male","Positive","No","No","Yes","No","Homa Bay",0
+"P0637",24,"Male","Negative","No","No","No","No","Siaya",0
+"P0638",47,"Male","Negative","Yes","No","No","No","Kisumu",0
+"P0639",40,"Male","Positive","No","No","No","No","Homa Bay",0
+"P0640",56,"Female","Positive","No","No","Yes","No","Kisumu",1
+"P0641",28,"Female","Unknown","No","Yes","No","No","Migori",0
+"P0642",31,"Male","Negative","No","No","Yes","Yes","Homa Bay",0
+"P0643",47,"Male","Positive","Yes","No","No","Yes","Kakamega",0
+"P0644",48,"Male","Positive","Yes","No","No","No","Homa Bay",0
+"P0645",41,"Male","Negative","Yes","Yes","No","No","Migori",1
+"P0646",21,"Male","Negative","Yes","Yes","No","No","Kisumu",0
+"P0647",26,"Male","Positive","Yes","No","No","Yes","Kakamega",0
+"P0648",64,"Male","Negative","Yes","Yes","No","No","Kisumu",1
+"P0649",32,"Female","Negative","No","Yes","No","Yes","Homa Bay",1
+"P0650",15,"Female","Positive","No","No","No","No","Kakamega",0
+"P0483",29,"Female","Positive","Yes","No","No","No","Kakamega",0
+"P0012",44,"Female","Positive","No","No","No","No","Siaya",0
+"P0154",54,"Male","Negative","Yes","No","No","No","Kisumu",0
