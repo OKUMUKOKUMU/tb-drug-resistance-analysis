@@ -1,0 +1,4 @@
+Removed 3 duplicate patient records
+Set 2 implausible ages to missing
+Missing age after cleaning: 8
+Harmonised 4 non-standard sex codes (1 left missing)
